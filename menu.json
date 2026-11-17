@@ -1,0 +1,1030 @@
+{
+ "categories": [
+  {
+   "name": {
+    "ru": "Завтраки",
+    "uz": "Nonushtalar",
+    "en": "Breakfasts"
+   },
+   "tr": "Kahvaltılar",
+   "items": [
+    {
+     "id": 1,
+     "ru": "Менемен",
+     "tr": "Menemen",
+     "price": "55 000"
+    },
+    {
+     "id": 2,
+     "ru": "Яичница с суджуком",
+     "tr": "Sucuklu yumurta",
+     "price": "75 000"
+    },
+    {
+     "id": 3,
+     "ru": "Суджук изгара с сосисками",
+     "tr": "Sosis ve sucuk",
+     "price": "210 000"
+    },
+    {
+     "id": 4,
+     "ru": "Полезный завтрак",
+     "tr": "Sağlıklı bir kahvaltı",
+     "price": "320 000"
+    },
+    {
+     "id": 5,
+     "ru": "Итальянский завтрак",
+     "tr": "",
+     "price": "360 000"
+    },
+    {
+     "id": 6,
+     "ru": "Завтрак 1 персона",
+     "tr": "Kahvaltı 1 kişilik",
+     "price": "195 000"
+    },
+    {
+     "id": 7,
+     "ru": "Завтрак 2 персоны",
+     "tr": "Kahvaltı 2 kişilik",
+     "price": "390 000"
+    },
+    {
+     "id": 8,
+     "ru": "Завтрак 4 персоны",
+     "tr": "Kahvaltı 4 kişilik",
+     "price": "700 000"
+    },
+    {
+     "id": 9,
+     "ru": "Королевский завтрак",
+     "tr": "Kral kahvaltısı",
+     "price": "840 000"
+    }
+   ]
+  },
+  {
+   "name": {
+    "ru": "Холодные закуски",
+    "uz": "Sovuq gazaklar",
+    "en": "Cold starters"
+   },
+   "tr": "Soğuk mezeler",
+   "items": [
+    {
+     "id": 10,
+     "ru": "Арап",
+     "tr": "Arap salatası",
+     "price": "48 000"
+    },
+    {
+     "id": 11,
+     "ru": "Джаджик",
+     "tr": "Cacık",
+     "price": "50 000"
+    },
+    {
+     "id": 12,
+     "ru": "Долма",
+     "tr": "Yaprak sarma",
+     "price": "60 000"
+    },
+    {
+     "id": 13,
+     "ru": "Зверобой",
+     "tr": "Ezme",
+     "price": "55 000"
+    },
+    {
+     "id": 14,
+     "ru": "Сет 5 салатов",
+     "tr": "5 çeşit meze",
+     "price": "145 000"
+    },
+    {
+     "id": 15,
+     "ru": "Хумус",
+     "tr": "Humus",
+     "price": "55 000"
+    },
+    {
+     "id": 16,
+     "ru": "Шакшука",
+     "tr": "Şakşuka",
+     "price": "55 000"
+    },
+    {
+     "id": 17,
+     "ru": "Сузма",
+     "tr": "Süzme",
+     "price": "55 000"
+    }
+   ]
+  },
+  {
+   "name": {
+    "ru": "Супы",
+    "uz": "Sho‘rvalar",
+    "en": "Soups"
+   },
+   "tr": "Çorbalar",
+   "items": [
+    {
+     "id": 18,
+     "ru": "Чечевичный суп",
+     "tr": "Süzme mercimek çorbası",
+     "price": "45 000"
+    },
+    {
+     "id": 19,
+     "ru": "Тил шурва",
+     "tr": "Dil çorbası",
+     "price": "75 000"
+    },
+    {
+     "id": 20,
+     "ru": "Эзогелин суп",
+     "tr": "Ezogelin çorbası",
+     "price": "48 000"
+    },
+    {
+     "id": 21,
+     "ru": "Бейран",
+     "tr": "Beyran çorbası",
+     "price": "75 000"
+    }
+   ]
+  },
+  {
+   "name": {
+    "ru": "Салаты",
+    "uz": "Salatlar",
+    "en": "Salads"
+   },
+   "tr": "Salatlar",
+   "items": [
+    {
+     "id": 22,
+     "ru": "Тулум",
+     "tr": "Tulum salatası",
+     "price": "80 000/150 000"
+    },
+    {
+     "id": 23,
+     "ru": "Хумус ятагинда кашик салат",
+     "tr": "Humus yatağında kaşık salatası",
+     "price": "60 000/110 000"
+    },
+    {
+     "id": 24,
+     "ru": "Цезарь",
+     "tr": "Sezar salatası",
+     "price": "120 000"
+    },
+    {
+     "id": 25,
+     "ru": "Чобан",
+     "tr": "Çoban salatası",
+     "price": "30 000/60 000"
+    },
+    {
+     "id": 26,
+     "ru": "Эт салат",
+     "tr": "Et salatası",
+     "price": "80 000/150 000"
+    },
+    {
+     "id": 27,
+     "ru": "Акдениз салат",
+     "tr": "Akdeniz salatası",
+     "price": "55 000/90 000"
+    },
+    {
+     "id": 28,
+     "ru": "Гавурда",
+     "tr": "Gavurdağı salatası",
+     "price": "40 000/72 000"
+    },
+    {
+     "id": 29,
+     "ru": "Гарден",
+     "tr": "Gardın salata",
+     "price": "68 000/120 000"
+    },
+    {
+     "id": 30,
+     "ru": "Мевсим",
+     "tr": "Mevsim salatası",
+     "price": "65 000/120 000"
+    },
+    {
+     "id": 31,
+     "ru": "Отто",
+     "tr": "Otto salatası",
+     "price": "138 000"
+    },
+    {
+     "id": 32,
+     "ru": "Салат витаминный",
+     "tr": "Vitamin salatası",
+     "price": "58 000/100 000"
+    },
+    {
+     "id": 33,
+     "ru": "Салат диетический",
+     "tr": "Diyet salatası",
+     "price": "55 000/95 000"
+    },
+    {
+     "id": 34,
+     "ru": "Салат моцарелла",
+     "tr": "Mozzarella salatası",
+     "price": "375 000"
+    },
+    {
+     "id": 35,
+     "ru": "Салат с авокадо",
+     "tr": "Avakadolu enginar kalbi salatası",
+     "price": "242 000"
+    },
+    {
+     "id": 36,
+     "ru": "Салат с авокадо, лососем и шпинатом",
+     "tr": "Ispanaklı avakadolu somon salatası",
+     "price": "280 000"
+    },
+    {
+     "id": 37,
+     "ru": "Салат с рукколой",
+     "tr": "Rukola salatası",
+     "price": "65 000/120 000"
+    },
+    {
+     "id": 38,
+     "ru": "Салат с тунцом",
+     "tr": "Ton balık salatası",
+     "price": "190 000"
+    }
+   ]
+  },
+  {
+   "name": {
+    "ru": "Пиде",
+    "uz": "Pide",
+    "en": "Pide"
+   },
+   "tr": "Pide",
+   "items": [
+    {
+     "id": 39,
+     "ru": "Кушбаши пиде с сыром",
+     "tr": "Kuşbaşılı-kaşarlı pide",
+     "price": "92 000"
+    },
+    {
+     "id": 40,
+     "ru": "Кушбаши пиде",
+     "tr": "Kuşbaşılı pide",
+     "price": "89 000"
+    },
+    {
+     "id": 41,
+     "ru": "Жареное пиде",
+     "tr": "Kavurmalı pide",
+     "price": "135 000"
+    },
+    {
+     "id": 42,
+     "ru": "Пиде с куриным донаром",
+     "tr": "Tavuk döner pide",
+     "price": "75 000"
+    },
+    {
+     "id": 43,
+     "ru": "Пиде с мясным донаром",
+     "tr": "Et dönerli pide",
+     "price": "115 000"
+    },
+    {
+     "id": 44,
+     "ru": "Смешанное пиде",
+     "tr": "Karışık pide",
+     "price": "113 000"
+    },
+    {
+     "id": 45,
+     "ru": "Сырное пиде с мёдом",
+     "tr": "Kaşarlı pide ball",
+     "price": "95 000"
+    },
+    {
+     "id": 46,
+     "ru": "Сырное пиде",
+     "tr": "Kaşarlı pide",
+     "price": "74 000"
+    },
+    {
+     "id": 47,
+     "ru": "Фаршированное пиде",
+     "tr": "Kıymalı pide",
+     "price": "88 000"
+    },
+    {
+     "id": 48,
+     "ru": "Черноморское пиде",
+     "tr": "Karadeniz pide",
+     "price": "125 000"
+    },
+    {
+     "id": 49,
+     "ru": "Антеп лахмаджун",
+     "tr": "Antep lahmacunu",
+     "price": "58 000"
+    },
+    {
+     "id": 50,
+     "ru": "Финдик лахмаджун",
+     "tr": "Fındık lahmacunu",
+     "price": "30 000"
+    }
+   ]
+  },
+  {
+   "name": {
+    "ru": "Горячие закуски",
+    "uz": "Issiq gazaklar",
+    "en": "Hot starters"
+   },
+   "tr": "Ara sıcaklar",
+   "items": [
+    {
+     "id": 51,
+     "ru": "Бурек с брынзой",
+     "tr": "Sigara böreği",
+     "price": "60 000"
+    },
+    {
+     "id": 52,
+     "ru": "Кизартма кёфте",
+     "tr": "Kızartma Içlı köfte",
+     "price": "55 000"
+    },
+    {
+     "id": 53,
+     "ru": "Хрустящая корзина",
+     "tr": "Çıtır sepeti",
+     "price": "105 000"
+    },
+    {
+     "id": 54,
+     "ru": "Хрустящие луковые кольца",
+     "tr": "Soğan halkası",
+     "price": "105 000"
+    }
+   ]
+  },
+  {
+   "name": {
+    "ru": "Гёзлеме",
+    "uz": "Gözleme",
+    "en": "Gözleme"
+   },
+   "tr": "Gözleme",
+   "items": [
+    {
+     "id": 55,
+     "ru": "Исмалак гёзлеме",
+     "tr": "Ispanaklı gözleme",
+     "price": "65 000"
+    },
+    {
+     "id": 56,
+     "ru": "Киймали гёзлеме",
+     "tr": "Kıymalı gözleme",
+     "price": "90 000"
+    },
+    {
+     "id": 57,
+     "ru": "Киймали пейнерли гёзлеме",
+     "tr": "Peynirli kıymalı gözleme",
+     "price": "85 000"
+    },
+    {
+     "id": 58,
+     "ru": "Отто исмалак гёзлеме",
+     "tr": "Otto ıspanaklı gözleme",
+     "price": "95 000"
+    },
+    {
+     "id": 59,
+     "ru": "Отто киймали гёзлеме",
+     "tr": "Otto kıymalı gözleme",
+     "price": "115 000"
+    },
+    {
+     "id": 60,
+     "ru": "Отто киймали пейнерли гёзлеме",
+     "tr": "Otto peynirli kıymalı gözleme",
+     "price": "125 000"
+    },
+    {
+     "id": 61,
+     "ru": "Отто патетесли гёзлеме",
+     "tr": "Otto patatesli gözleme",
+     "price": "55 000"
+    },
+    {
+     "id": 62,
+     "ru": "Отто пейнерли гёзлеме",
+     "tr": "Otto peynirli gözleme",
+     "price": "75 000"
+    },
+    {
+     "id": 63,
+     "ru": "Патетесли гёзлеме",
+     "tr": "Patatesli gözleme",
+     "price": "55 000"
+    },
+    {
+     "id": 64,
+     "ru": "Пейнерли гёзлеме",
+     "tr": "Peynirli gözleme",
+     "price": "68 000"
+    }
+   ]
+  },
+  {
+   "name": {
+    "ru": "Спагетти",
+    "uz": "Spagetti",
+    "en": "Pasta"
+   },
+   "tr": "Spagetti",
+   "items": [
+    {
+     "id": 65,
+     "ru": "Альфредо",
+     "tr": "Fettucini alfredo",
+     "price": "140 000"
+    },
+    {
+     "id": 66,
+     "ru": "Паста арабьята",
+     "tr": "Penne arabiata",
+     "price": "95 000"
+    },
+    {
+     "id": 67,
+     "ru": "Спагетти с лососем",
+     "tr": "Somonlu spagetti",
+     "price": "205 000"
+    }
+   ]
+  },
+  {
+   "name": {
+    "ru": "Основное блюдо",
+    "uz": "Asosiy taomlar",
+    "en": "Main dishes"
+   },
+   "tr": "Ana yemekler",
+   "items": [
+    {
+     "id": 68,
+     "ru": "Вырезка Бон филе с хумусным маслом",
+     "tr": "Humuslu tereyağlı bonfile",
+     "price": "230 000"
+    },
+    {
+     "id": 69,
+     "ru": "Куриное филе в лимонном соусе",
+     "tr": "Limon soslu tavuk bonfile",
+     "price": "110 000"
+    },
+    {
+     "id": 70,
+     "ru": "Олти эзмели бон филе",
+     "tr": "Altı ezmeli bonfile",
+     "price": "200 000"
+    },
+    {
+     "id": 71,
+     "ru": "Килис али назык",
+     "tr": "Kilis alinazik",
+     "price": "94 000"
+    },
+    {
+     "id": 72,
+     "ru": "Али назик",
+     "tr": "Ali nazik",
+     "price": "155 000"
+    },
+    {
+     "id": 73,
+     "ru": "Бефстроганов",
+     "tr": "Beef stroganoff",
+     "price": "190 000"
+    },
+    {
+     "id": 74,
+     "ru": "Блюдо от шеф повара",
+     "tr": "Chefın rüyası",
+     "price": "205 000"
+    },
+    {
+     "id": 75,
+     "ru": "Кардон блу мантар",
+     "tr": "Cordon bleu mantar soslu",
+     "price": "155 000"
+    },
+    {
+     "id": 76,
+     "ru": "Кузу тандыр с соусом демиглас",
+     "tr": "Demiglass soslu kuzu tandır",
+     "price": "310 000"
+    },
+    {
+     "id": 77,
+     "ru": "Куриный шницель",
+     "tr": "Soslu tavuk şinitzel",
+     "price": "109 000"
+    },
+    {
+     "id": 78,
+     "ru": "Куриное филе в соусе BBQ",
+     "tr": "BBQ soslu tavuk",
+     "price": "135 000"
+    },
+    {
+     "id": 79,
+     "ru": "Куриное филе с соусом карри",
+     "tr": "Köri soslu tavuk",
+     "price": "135 000"
+    },
+    {
+     "id": 80,
+     "ru": "Лукум с соусом песто",
+     "tr": "Pesto soslu lokum",
+     "price": "250 000"
+    },
+    {
+     "id": 81,
+     "ru": "Мантар сослу товук пирзола",
+     "tr": "Mantar soslu tavuk pırzola",
+     "price": "145 000"
+    },
+    {
+     "id": 82,
+     "ru": "Отто каришик 1 персона",
+     "tr": "Otto karışık kebap 1 kişilik",
+     "price": "195 000"
+    },
+    {
+     "id": 83,
+     "ru": "Отто каришик 3 персоны",
+     "tr": "Otto karışık kebap 3 kişilik",
+     "price": "540 000"
+    },
+    {
+     "id": 84,
+     "ru": "Отто каришик 5 персон",
+     "tr": "Otto karışık kebap 5 kişilik",
+     "price": "950 000"
+    },
+    {
+     "id": 85,
+     "ru": "Сач ковурма",
+     "tr": "Sac kavurma",
+     "price": "205 000"
+    },
+    {
+     "id": 86,
+     "ru": "Куриное соте",
+     "tr": "Tavuk sote",
+     "price": "105 000"
+    },
+    {
+     "id": 87,
+     "ru": "Чобан кавурма",
+     "tr": "Çoban kavurma",
+     "price": "210 000"
+    },
+    {
+     "id": 88,
+     "ru": "Чокертме кебаб",
+     "tr": "Çökertme kebap",
+     "price": "180 000"
+    },
+    {
+     "id": 89,
+     "ru": "Спагетти бон филе",
+     "tr": "Spagettı bonfile",
+     "price": "230 000"
+    }
+   ]
+  },
+  {
+   "name": {
+    "ru": "Стейки и мангал",
+    "uz": "Steyklar va mangal",
+    "en": "Steaks & grill"
+   },
+   "tr": "Steak & mangal",
+   "items": [
+    {
+     "id": 90,
+     "ru": "Шашлык смит с сырным соусом",
+     "tr": "Kaşarlı soslu simit kebap",
+     "price": "130 000"
+    },
+    {
+     "id": 91,
+     "ru": "Стейк Нью-Йорк с картофельным пюре",
+     "tr": "Patates püreli lam newyork",
+     "price": "315 000"
+    },
+    {
+     "id": 92,
+     "ru": "Спагетти бон филе в сладком соусе",
+     "tr": "Tatlı patates bonfile spagetti",
+     "price": "260 000"
+    },
+    {
+     "id": 93,
+     "ru": "Антрекот с соусом демиглас",
+     "tr": "Demiglass soslu sırloın steak",
+     "price": "230 000"
+    },
+    {
+     "id": 94,
+     "ru": "Баранья пирзола",
+     "tr": "Kuzu pirzola",
+     "price": "210 000"
+    },
+    {
+     "id": 95,
+     "ru": "Биф лукум",
+     "tr": "Beef Lokum",
+     "price": "220 000"
+    },
+    {
+     "id": 96,
+     "ru": "Бонфиле в сливочном масле",
+     "tr": "Tereyağlı beef lokum",
+     "price": "225 000"
+    },
+    {
+     "id": 97,
+     "ru": "Демиглас сослу кулбасти",
+     "tr": "Demiglass soslu dan kulbasti",
+     "price": "245 000"
+    },
+    {
+     "id": 98,
+     "ru": "Каришик спешл",
+     "tr": "Karışık special",
+     "price": "520 000"
+    },
+    {
+     "id": 99,
+     "ru": "Сырные котлеты",
+     "tr": "Kaşarlı köfte",
+     "price": "160 000"
+    },
+    {
+     "id": 100,
+     "ru": "Лукум нирвана",
+     "tr": "Lokum nirvana",
+     "price": "265 000"
+    },
+    {
+     "id": 101,
+     "ru": "Мозговая косточка спешл 2 персоны",
+     "tr": "İlikli special 2 kişilik",
+     "price": "590 000"
+    },
+    {
+     "id": 102,
+     "ru": "Мясные котлеты",
+     "tr": "Kasap köfte",
+     "price": "170 000"
+    },
+    {
+     "id": 103,
+     "ru": "Отто конфит",
+     "tr": "Otto konfite",
+     "price": "610 000"
+    },
+    {
+     "id": 104,
+     "ru": "Стейк антрекот",
+     "tr": "Steak antrikot",
+     "price": "250 000"
+    },
+    {
+     "id": 105,
+     "ru": "Стейк ассорти",
+     "tr": "Steak karışık",
+     "price": "260 000"
+    },
+    {
+     "id": 106,
+     "ru": "Стейк даллас спешл",
+     "tr": "Dallas special",
+     "price": "410 000"
+    },
+    {
+     "id": 107,
+     "ru": "Стейк лосось",
+     "tr": "Somon",
+     "price": "480 000"
+    },
+    {
+     "id": 108,
+     "ru": "Стейк рибай",
+     "tr": "Ribay",
+     "price": "320 000"
+    },
+    {
+     "id": 109,
+     "ru": "Стейк сендвич с мозговой косточкой",
+     "tr": "İlikli steak sandviç",
+     "price": "385 000"
+    },
+    {
+     "id": 110,
+     "ru": "Шатобриан 2 персоны",
+     "tr": "Chateaubriand 2 kişilik",
+     "price": "540 000"
+    },
+    {
+     "id": 111,
+     "ru": "Шатобриан с сыром",
+     "tr": "Chateaubriand peynirli",
+     "price": "595 000"
+    },
+    {
+     "id": 112,
+     "ru": "Овощи на гриле",
+     "tr": "Izgara sebze",
+     "price": "155 000"
+    }
+   ]
+  },
+  {
+   "name": {
+    "ru": "Донер",
+    "uz": "Doner",
+    "en": "Kebabs"
+   },
+   "tr": "Döner",
+   "items": [
+    {
+     "id": 113,
+     "ru": "Бейти эт донар",
+     "tr": "Beyti et döner",
+     "price": "145 000"
+    },
+    {
+     "id": 114,
+     "ru": "Искандер куриный",
+     "tr": "Tavuk iskender",
+     "price": "98 000/120 000"
+    },
+    {
+     "id": 115,
+     "ru": "Искандер мясной",
+     "tr": "Et döner iskender",
+     "price": "155 000/185 000"
+    },
+    {
+     "id": 116,
+     "ru": "Куриный донар",
+     "tr": "Tavuk döner",
+     "price": "92 000/110 000"
+    },
+    {
+     "id": 117,
+     "ru": "Мясной донар",
+     "tr": "Et döner",
+     "price": "130 000/175 000"
+    },
+    {
+     "id": 118,
+     "ru": "Смешанный донар",
+     "tr": "Karışık döner",
+     "price": "125 000"
+    }
+   ]
+  },
+  {
+   "name": {
+    "ru": "Бургеры",
+    "uz": "Burgerlar",
+    "en": "Burgers"
+   },
+   "tr": "Burgerler",
+   "items": [
+    {
+     "id": 119,
+     "ru": "Гамбургер",
+     "tr": "Hamburger",
+     "price": "125 000"
+    },
+    {
+     "id": 120,
+     "ru": "Лаваш куриный",
+     "tr": "Tavuk dürüm",
+     "price": "75 000"
+    },
+    {
+     "id": 121,
+     "ru": "Лаваш мясной",
+     "tr": "Et dürüm",
+     "price": "90 000"
+    },
+    {
+     "id": 122,
+     "ru": "Комбо бургер",
+     "tr": "Combo burger",
+     "price": "245 000"
+    },
+    {
+     "id": 123,
+     "ru": "Кулбасти бургер",
+     "tr": "Dana kulbastı burger",
+     "price": "145 000"
+    },
+    {
+     "id": 124,
+     "ru": "Сендвич куриный",
+     "tr": "Tavuk sandviç",
+     "price": "65 000"
+    },
+    {
+     "id": 125,
+     "ru": "Сендвич мясной",
+     "tr": "Et sandviç",
+     "price": "95 000"
+    },
+    {
+     "id": 126,
+     "ru": "Чизбургер",
+     "tr": "Cheeseburger",
+     "price": "130 000"
+    }
+   ]
+  },
+  {
+   "name": {
+    "ru": "Шашлыки",
+    "uz": "Shashliklar",
+    "en": "Kebab grill"
+   },
+   "tr": "Kebaplar",
+   "items": [
+    {
+     "id": 127,
+     "ru": "Адана шашлык",
+     "tr": "Adana kebap",
+     "price": "105 000"
+    },
+    {
+     "id": 128,
+     "ru": "Бейти сарма",
+     "tr": "Beyti sarma",
+     "price": "153 000"
+    },
+    {
+     "id": 129,
+     "ru": "Йогуртли кебаб",
+     "tr": "Yoğurtlu kebap",
+     "price": "160 000"
+    },
+    {
+     "id": 130,
+     "ru": "Крылышки",
+     "tr": "Tavuk kanat",
+     "price": "110 000"
+    },
+    {
+     "id": 131,
+     "ru": "Куриная пирзола",
+     "tr": "Tavuk pirzola",
+     "price": "112 000"
+    },
+    {
+     "id": 132,
+     "ru": "Кушбаши шашлык",
+     "tr": "Kuzu şiş",
+     "price": "155 000"
+    },
+    {
+     "id": 133,
+     "ru": "Кушлама шашлык",
+     "tr": "Küşleme",
+     "price": "205 000"
+    },
+    {
+     "id": 134,
+     "ru": "Смешанный куриный шашлык",
+     "tr": "Tavuk karışık",
+     "price": "125 000"
+    },
+    {
+     "id": 135,
+     "ru": "Смешанный мясной шашлык",
+     "tr": "Et karışık kebap",
+     "price": "198 000"
+    },
+    {
+     "id": 136,
+     "ru": "Тандыр бейти",
+     "tr": "Tandır beyti",
+     "price": "145 000"
+    },
+    {
+     "id": 137,
+     "ru": "Урфа шашлык",
+     "tr": "Urfa kebap",
+     "price": "99 000"
+    },
+    {
+     "id": 138,
+     "ru": "Шашлык из курицы",
+     "tr": "Tavuk şiş",
+     "price": "110 000"
+    },
+    {
+     "id": 139,
+     "ru": "Шашлык из ягнёнка",
+     "tr": "Yağlı kara",
+     "price": "325 000"
+    },
+    {
+     "id": 140,
+     "ru": "Шашлык с шампиньонами",
+     "tr": "Mantar kebap",
+     "price": "165 000"
+    }
+   ]
+  },
+  {
+   "name": {
+    "ru": "Гарниры",
+    "uz": "Garnirlar",
+    "en": "Sides"
+   },
+   "tr": "Garnitür",
+   "items": [
+    {
+     "id": 141,
+     "ru": "Картофель кумпир",
+     "tr": "Kumpir",
+     "price": "40 000"
+    },
+    {
+     "id": 142,
+     "ru": "Картофель фри",
+     "tr": "Patates tava",
+     "price": "52 000"
+    },
+    {
+     "id": 143,
+     "ru": "Пилав",
+     "tr": "Pırınç pilavı",
+     "price": "35 000"
+    }
+   ]
+  },
+  {
+   "name": {
+    "ru": "Лепёшки",
+    "uz": "Nonlar",
+    "en": "Breads"
+   },
+   "tr": "Ekmekler",
+   "items": [
+    {
+     "id": 144,
+     "ru": "Афганская лепёшка",
+     "tr": "Afgan ekmek",
+     "price": "22 000"
+    },
+    {
+     "id": 145,
+     "ru": "Лепёшка",
+     "tr": "Pide ekmek",
+     "price": "8 000"
+    },
+    {
+     "id": 146,
+     "ru": "Пуф",
+     "tr": "Puf ekmek",
+     "price": "20 000"
+    }
+   ]
+  }
+ ]
+}
